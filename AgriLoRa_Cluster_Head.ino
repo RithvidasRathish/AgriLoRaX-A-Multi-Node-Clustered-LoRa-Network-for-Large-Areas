@@ -1,6 +1,6 @@
 /*
   ============================================================================
-  Title        : IoT Cluster Head Node for Smart Agriculture
+  Title        : IoT Cluster Head Node for AgriLoRax
   Description  : 
     This sketch implements a LoRa-based Cluster Head Node for a multi-node 
     smart agriculture system. It receives sensor data from field nodes over 
